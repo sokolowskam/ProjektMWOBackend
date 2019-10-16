@@ -4,7 +4,8 @@
   "description": "\"WebApi for studies project, for app Tap&Swap\"",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node src/main.js"
   },
   "author": "",
   "license": "ISC",
